@@ -29,8 +29,7 @@ public class CharacterCustomizer : MonoBehaviour
     private Vector3 BodyTransOrigin;
     private Vector3 ArmsTransOrigin;
     private Vector3 LegsTransOrigin;
-
-
+    
     private void Start()
     {
         HeadTransOrigin = HeadTrans.localScale;
